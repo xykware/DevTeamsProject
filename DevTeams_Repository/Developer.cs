@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeveveloperTeams_Repository
+namespace DevTeams_Repository
 {
     public class Developer
     {

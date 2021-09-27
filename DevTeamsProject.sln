@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveveloperTeams_Console", "DevTeams_Console\DeveveloperTeams_Console.csproj", "{A1561007-7239-4704-B568-1B9F18FCAC37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTeams_Console", "DevTeams_Console\DevTeams_Console.csproj", "{A1561007-7239-4704-B568-1B9F18FCAC37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperTeams_Repositories", "DevTeams_Repository\DeveloperTeams_Repositories.csproj", "{66CA7052-604C-4B48-B84C-8FC06E39FA5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTeams_Repositories", "DevTeams_Repository\DevTeams_Repositories.csproj", "{66CA7052-604C-4B48-B84C-8FC06E39FA5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-﻿using DeveveloperTeams_Repository;
+﻿using DevTeams_Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
